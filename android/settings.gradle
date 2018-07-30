@@ -1,0 +1,3 @@
+rootProject.name = 'Flexibility'
+
+include ':app'
